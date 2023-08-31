@@ -1,0 +1,64 @@
+header{
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+td{
+    column-width: 500px;
+    text-align: center;
+}
+#blue{
+    background-color: blue;
+}
+#lightblue{
+    background-color: lightblue;
+}
+#cyan{
+    background-color: cyan;
+}
+#aliceblue{
+    background-color: aliceblue;
+}
+#red{
+    background-color: red;
+}  
+#crimson{
+    background-color: crimson;
+}
+#darkred{
+    background-color: darkred;
+}
+#maroon{
+    background-color: maroon;
+}
+#rose{
+    background-color: darkviolet;
+}
+#lily{
+    background-color: darkgoldenrod;
+}
+#bluerose{
+    background-color: darkmagenta;
+}
+#marguerite{
+    background-color: gold;
+}
+#lotus{
+    background-color: darkorchid;
+}
+#poppy{
+    background-color: darkkhaki;
+}
+#purple{
+    background-color: purple;
+}
+#sunflower{
+    background-color:darkorange ;
+}
+footer{
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 30px;
+    text-align: end;
+}
